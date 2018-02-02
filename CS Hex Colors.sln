@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS Hex Colors", "CS Hex Colors\CS Hex Colors.csproj", "{E2AD0922-31B9-4984-B337-67B45411B731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2AD0922-31B9-4984-B337-67B45411B731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AD0922-31B9-4984-B337-67B45411B731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AD0922-31B9-4984-B337-67B45411B731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AD0922-31B9-4984-B337-67B45411B731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B759DD-CB26-4C21-A4AE-7468043ECD4D}
+	EndGlobalSection
+EndGlobal

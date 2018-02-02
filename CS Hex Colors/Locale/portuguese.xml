@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="pt" ReadableName="Portugues" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID="HEXC_DESCRIPTION" String="Adiciona a capacidade de especificar uma cor em AssetEditor usando valores HEX." />
+  </Translations>
+</Language>

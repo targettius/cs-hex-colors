@@ -1,0 +1,14 @@
+D:\CSL\CS Hex Colors\CS Hex Colors\obj\Debug\CS Hex Colors.csprojResolveAssemblyReference.cache
+D:\CSL\CS Hex Colors\CS Hex Colors\obj\Debug\CS Hex Colors.csproj.CoreCompileInputs.cache
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\CS Hex Colors.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\CS Hex Colors.pdb
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\Assembly-CSharp.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\ColossalManaged.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\ICities.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\UnityEngine.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\UnityEngine.UI.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\PopsApiWrapper.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\obj\Debug\CS Hex Colors.dll
+D:\CSL\CS Hex Colors\CS Hex Colors\obj\Debug\CS Hex Colors.pdb
